@@ -1,2 +1,7 @@
 
 *.CSV
+webapp/lib
+webapp/bin
+webapp/include
+webapp/local
+webapp/share
