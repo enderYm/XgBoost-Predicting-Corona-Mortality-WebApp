@@ -1,5 +1,7 @@
 
-*.CSV
+.vscode
+.vs
+.ipynb_checkpoints
 webapp/lib
 webapp/bin
 webapp/include
