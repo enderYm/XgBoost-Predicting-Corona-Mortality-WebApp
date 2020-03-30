@@ -496,11 +496,11 @@ class App extends Component {
             </Row>)
           }
         </div>
+        <br>
+          </br>
+          <br>
+          </br>
         <div class="alert alert-warning" role="alert">
-          <br>
-          </br>
-          <br>
-          </br>
         <b>Important:</b> This is neither scientifically proven, nor has any
         medical implication. You should not take these calculated percentages 
         for granted. The results are <b>heavily</b> scewed because there are 
@@ -509,9 +509,10 @@ class App extends Component {
         great. Please seek professional advice. This is only a showcase for Predicting
         the mortality rate on individual cases with xgBoost. 
         </div>
-        <div class="alert alert-primary" role="alert">
-          <br>
+        <br>
           </br>
+        <div class="alert alert-primary" role="alert">
+          
             Please refer to <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public" class="alert-link">this Website</a> for professional advice.
         </div>
       </Container>
