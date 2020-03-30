@@ -1,6 +1,8 @@
 # XgBoost Predicting Covid19 Mortality: React/Flask WebApp
 Predicting the mortality rate of Covid19 patients on an individual basis with a xgBoost Model. Predictors such as Age, Country, Symptoms used. This is only a showcase webapplication! No expertise and no medical advice! Deployed as a Flask/React Website
 
+![alt text](https://raw.githubusercontent.com/enderYm/XgBoost-Predicting-Corona-Mortality-WebApp/master/images/website.png "Website")
+
 ## XgBoost and Model Training
 
 Open the **XGBoost_Model_training.ipynb** Jupyter Notebook to see our modelling process. We used data from Kaggle (Novel Corona Virus 2019 Dataset). There we used the dataset with patient information (COVID19_line_list_data.csv). This Dataset includes predictors such as:
